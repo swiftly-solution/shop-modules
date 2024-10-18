@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "id": "killscreen",
+            "name": "Killscreen",
+            "value": true,
+            "price": 500,
+            "sell_price": 0
+        }
+    ]
+}

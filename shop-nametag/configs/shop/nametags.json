@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "id": "nametags.boss",
+            "name": "[BOSS]",
+            "value": "[BOSS]",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "nametags.rege",
+            "name": "[REGE]",
+            "value": "[REGE]",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "nametags.hacker",
+            "name": "[HACKER]",
+            "value": "[HACKER]",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "nametags.sefu",
+            "name": "[SEFU]",
+            "value": "[PURPLE]",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "nametags.root",
+            "name": "[ROOT]",
+            "value": "[ROOT]",
+            "price": 500,
+            "sell_price": 200
+        }
+    ]
+}

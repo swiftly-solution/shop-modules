@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "id": "name-colors.red",
+            "name": "Red",
+            "value": "{RED}",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "name-colors.green",
+            "name": "Green",
+            "value": "{GREEN}",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "name-colors.blue",
+            "name": "Blue",
+            "value": "{BLUE}",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "name-colors.purple",
+            "name": "Purple",
+            "value": "{PURPLE}",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "name-colors.yellow",
+            "name": "Yellow",
+            "value": "{YELLOW}",
+            "price": 500,
+            "sell_price": 200
+        }
+    ]
+}

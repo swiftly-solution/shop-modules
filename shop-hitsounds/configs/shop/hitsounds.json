@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "id": "hitsounds.contract_csgo",
+            "name": "Hitsound - 1",
+            "value": "sounds/ui/csgo_ui_contract_type2.vsnd_c",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "hitsounds.button",
+            "name": "Hitsound - 2",
+            "value": "sounds/ui/buttonrollover.vsnd_c",
+            "price": 500,
+            "sell_price": 200
+        }
+    ]
+}

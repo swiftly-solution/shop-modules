@@ -1,0 +1,44 @@
+{
+    "items": [
+        {
+            "id": "tracers.red",
+            "name": "Red",
+            "value": "255,0,0,255",
+            "price": 500,
+            "sell_price": 200,
+            "model": "particles/ui/status_levels/ui_status_level_8_energycirc.vpcf"
+        },
+        {
+            "id": "tracers.green",
+            "name": "Green",
+            "value": "0,255,0,255",
+            "price": 500,
+            "sell_price": 200,
+            "model": "particles/ui/status_levels/ui_status_level_8_energycirc.vpcf"
+        },
+        {
+            "id": "tracers.blue",
+            "name": "Blue",
+            "value": "0,0,255,255",
+            "price": 500,
+            "sell_price": 200,
+            "model": "particles/ui/status_levels/ui_status_level_8_energycirc.vpcf"
+        },
+        {
+            "id": "tracers.purple",
+            "name": "Purple",
+            "value": "128,0,128,255",
+            "price": 500,
+            "sell_price": 200,
+            "model": "particles/ui/status_levels/ui_status_level_8_energycirc.vpcf"
+        },
+        {
+            "id": "tracers.yellow",
+            "name": "Yellow",
+            "value": "255,255,0,255",
+            "price": 500,
+            "sell_price": 200,
+            "model": "particles/ui/status_levels/ui_status_level_8_energycirc.vpcf"
+        }
+    ]
+}
