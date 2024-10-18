@@ -15,7 +15,7 @@
 ## Installation
 
 1. Perform a drag-and-drop installation.
-2. Change the default price from the config in: `addons/swiftly/configs/plugins/shop/hitsounds.json` (optional)
+2. Change the default price from the config in: `addons/swiftly/configs/plugins/shop/tracers.json` (optional)
 3. Change the default colors and add more colors if you want (value must be RGBA).
 
 ---
