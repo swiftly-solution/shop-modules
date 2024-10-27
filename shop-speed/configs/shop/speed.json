@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "id": "speed.1.1",
+            "name": "Speed 1.1",
+            "value": 1.1,
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "speed.1.2",
+            "name": "Speed 1.2",
+            "value": 1.2,
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "speed.1.3",
+            "name": "Speed 1.3",
+            "value": 1.3,
+            "price": 500,
+            "sell_price": 200
+        }
+    ]
+}

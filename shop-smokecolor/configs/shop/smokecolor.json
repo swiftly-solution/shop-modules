@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "id": "smokecolor.red",
+            "name": "Red",
+            "value": "255,0,0,255",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "smokecolor.green",
+            "name": "Green",
+            "value": "0,255,0,255",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "smokecolor.blue",
+            "name": "Blue",
+            "value": "0,0,255,255",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "smokecolor.purple",
+            "name": "Purple",
+            "value": "128,0,128,255",
+            "price": 500,
+            "sell_price": 200
+        },
+        {
+            "id": "smokecolor.yellow",
+            "name": "Yellow",
+            "value": "255,255,0,255",
+            "price": 500,
+            "sell_price": 200
+        }
+    ]
+}
