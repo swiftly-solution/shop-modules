@@ -40,7 +40,7 @@ AddEventHandler("OnPostPlayerSpawn", function (event)
 
     for i=1,#Itms do
         if Itms[i].id == item then
-           player:SetBunnyhop(true)
+           playerutils:SetBunnyhop(playerid, true)
         end
     end
 
@@ -52,11 +52,11 @@ AddEventHandler("shop:core:ItemEquipStateChange", function (event, playerid, ite
     if not player then return end
 
     if state == false then
-        player:SetBunnyhop(false)
+        playerutils:SetBunnyhop(playerid, false)
     else
         for i=1,#Itms do
             if Itms[i].id == item_id then
-                player:SetBunnyhop(true)
+                playerutils:SetBunnyhop(playerid, true)
             end
         end
     end
